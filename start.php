@@ -83,7 +83,7 @@ $pompe = unserialize($_SESSION['pompe']);
     <div class="d-flex justify-content-center border p-1 mt-5">
         <a href="?a=home" class="btn btn-secondary me-3">Effacer</a>
         <a href="?a=acheter-voiture" class="btn btn-success me-3">Acheter une FERRARI F430 V8</a>
-        <a href="?a=acheter-moto" class="btn btn-success">Acheter une moto</a>
+        <a href="?a=acheter-moto" class="btn btn-success">Acheter une Ducati Panigale V4 SP</a>
     </div>
 
     <?php
